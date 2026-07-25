@@ -1,6 +1,6 @@
 # Hi, I'm Ibrahim 👋
 
-I'm a Computer Science student from Nigeria focused on becoming a strong software engineer through **consistent, deliberate practice**.
+I'm a Computer Science student focused on becoming a strong software engineer through **consistent, deliberate practice**.
 
 My current journey is centered around two languages:
 
