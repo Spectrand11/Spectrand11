@@ -1,216 +1,125 @@
 # Hi, I'm Ibrahim 👋
 
-I'm a Computer Science student focused on becoming a strong software engineer through **consistent, deliberate practice**.
+**Computer Science student | Aspiring Software Engineer | Building from fundamentals**
 
-My current journey is centered around two languages:
+I'm learning to build software by understanding how it works, solving problems independently, and turning concepts into practical projects.
 
-* **Go** — my primary systems and backend language
-* **Python** — expanding my programming perspective and building practical tools
+My approach is simple: learn the fundamentals, build something useful, debug what breaks, and keep improving.
 
-I am less interested in simply collecting technologies and more interested in understanding **how things work** and building the ability to solve problems independently.
-
----
-
-## 🧭 My Current Journey
-
-```text
-Programming Fundamentals
-        ↓
-        Go
-        ↓
-Systems • CLI Tools • Concurrency • Backend Engineering
-        ↓
-      Python
-        ↓
-Automation • Scripting • Data • Practical Applications
-        ↓
-   Deeper Engineering
-        ↓
-Cloud • Security • Distributed Systems
-```
+I'm early in the journey, but I'm committed to developing skills that go beyond writing code that merely works.
 
 ---
 
-## 🐹 Go — My Primary Language
+## 🛠️ What I'm Working On
 
-Go is where I am building my strongest programming foundation.
+### 🐍 Python
 
-My goal is not just to learn Go syntax, but to understand the fundamentals deeply:
+My current primary focus is developing a strong programming foundation through Python.
 
-* Data structures
-* Pointers
-* Structs
-* Methods
-* Interfaces
-* Error handling
-* File systems
-* Concurrency
-* Networking
-* Systems design
+I'm working on:
+- Core language fundamentals and problem-solving
+- Data structures and working with collections
+- Functions, scope, and object-oriented programming
+- File handling, exceptions, and modules
+- Building practical command-line applications
+- Git and GitHub for version control
 
-### Current Go Roadmap
+I'm learning by building projects rather than relying exclusively on tutorials.
 
-#### Phase 1 — Foundations & CLI Tools
+### 🌐 Web Development
 
-* Go Tour
-* Go by Example
-* Rebuilding projects from scratch
-* CLI applications
-* File processing
+I'm beginning to develop my frontend skills, starting with:
 
-#### Phase 2 — Algorithmic Depth
+- HTML
+- CSS
+- JavaScript
+- DOM manipulation and events
 
-* Byte and rune manipulation
-* Recursion
-* Pointers
-* Parsing
-* Data structures
-
-#### Phase 3 — Concurrency & High-Throughput Systems
-
-* Goroutines
-* Channels
-* Worker pools
-* Synchronization
-* Concurrent applications
-
-#### Phase 4 — Production Systems
-
-* Databases
-* Key-value stores
-* APIs
-* Networking
-* Production engineering
-
-### Projects
-
-Some of the projects I am building or planning to build:
-
-* **Expense Tracker** — CLI application for managing expenses
-* **Todo CLI** — task management from the terminal
-* **Loggrep** — a command-line log search and filtering tool
-* **Mdrender** — a Markdown parser
-* **Gofetch** — a concurrent metrics harvester
-* **KVStore** — a key-value storage system
-
-I believe rebuilding projects from scratch is one of the best ways to turn knowledge into understanding.
+The goal is to understand how web applications work before moving into more complex frameworks and full-stack development.
 
 ---
 
-## 🐍 Python — Expanding My Programming Perspective
+## 🚀 Projects
 
-After building a foundation with Go, I am exploring Python to understand a different programming philosophy.
+Here are some of the projects I've been building as I learn.
 
-The goal is not to abandon Go or simply learn another syntax.
+| Project | Description | Technologies |
+|---|---|---|
+| [Unit Converter](https://github.com/Spectrand11/unit_converter) | A command-line tool for converting between common units. | Python |
+| [Password Checker](https://github.com/Spectrand11/password_checker) | A terminal-based tool that assesses password strength. | Python |
 
-The goal is to understand:
+I'm also working on other small programming projects to strengthen my fundamentals and problem-solving ability.
 
-> **What is universal to programming, and what is specific to a language?**
-
-My Python journey focuses on:
-
-* Python fundamentals
-* Dynamic typing
-* Objects and references
-* Lists, dictionaries, tuples, and sets
-* Functions
-* File handling
-* Exceptions
-* Modules
-* Iteration
-* Generators
-* Object-oriented programming
-* CLI applications
-
-### Python Learning Approach
-
-```text
-Learn a concept
-      ↓
-Understand the underlying idea
-      ↓
-Write small experiments
-      ↓
-Build a project
-      ↓
-Rebuild from understanding
-```
-
-I am currently working through structured Python learning and building small projects to reinforce the concepts.
+As my skills grow, I intend to progress from small applications to more substantial software systems.
 
 ---
 
-## 🛠️ Current Focus
+## 🧭 My Engineering Roadmap
 
-```text
-Go
-├── Fundamentals
-├── CLI applications
-├── File processing
-├── Algorithms
-├── Concurrency
-└── Systems programming
+I'm following an adaptive learning path built around progressively harder engineering challenges.
 
-Python
-├── Core language fundamentals
-├── Data structures
-├── Functions
-├── Files and modules
-├── Object model
-└── Practical applications
-```
+**01 — Programming Foundations**
+Python, problem-solving, Git, and practical projects.
+
+**02 — Data Structures & Algorithms**
+Developing a deeper understanding of computational thinking, common data structures, and algorithmic complexity.
+
+**03 — Full-Stack Development**
+Learning how frontend applications, backend services, databases, and APIs fit together.
+
+**04 — Backend Engineering**
+Going deeper into application architecture, databases, networking, testing, and reliable services.
+
+**05 — AI Engineering**
+Learning to build useful applications and systems that integrate AI capabilities.
+
+**06 — Production & Cloud**
+Exploring deployment, observability, infrastructure, and production reliability.
+
+**07 — Advanced Engineering**
+Working toward deeper expertise in distributed systems and AI infrastructure, with systems languages such as Rust and tools such as Python where appropriate.
+
+This roadmap is a direction, not a rigid contract. I'll adjust it as I build, discover gaps, and develop a better understanding of the field.
 
 ---
 
-## 🎯 Long-Term Direction
+## 🧠 How I Learn
 
-My long-term interests are in the intersection of:
+I value understanding over memorization.
 
-* Backend engineering
-* Systems programming
-* Cloud infrastructure
-* Cybersecurity
-* Distributed systems
+My preferred process is:
 
-I am currently focused on building the foundation required to eventually work in those areas.
+1. Learn a concept.
+2. Understand why it works.
+3. Experiment with it.
+4. Apply it to a project.
+5. Debug mistakes and improve the implementation.
+6. Rebuild from understanding rather than simply copying a solution.
 
-For now, the process is simple:
+I use AI tools as part of my development workflow, but my goal is to strengthen my own judgment and ability to reason about code.
 
-> **Learn deeply. Build consistently. Rebuild what I learn. Compound over time.**
+---
+
+## 🎯 Long-Term Interests
+
+I'm particularly interested in the engineering behind the software we depend on:
+
+- Backend and systems engineering
+- Distributed systems
+- AI engineering and infrastructure
+- Cloud infrastructure
+- Networking and security
+
+These are long-term interests I'm working toward, not claims of expertise.
+
+For now, my priority is to build strong fundamentals, complete useful projects, and earn the ability to tackle increasingly difficult engineering problems.
 
 ---
 
 ## 📈 The Journey
 
-This profile is a record of the process.
+This profile is a record of my progress: the projects I build, the concepts I learn, and the improvements I make along the way.
 
-Not just finished projects.
+**Learn deeply. Build consistently. Understand the systems behind the code.**
 
-Not just polished repositories.
-
-But the progression from:
-
-```text
-Learning syntax
-      ↓
-Understanding concepts
-      ↓
-Building small programs
-      ↓
-Building systems
-      ↓
-Understanding engineering
-```
-
-I'm still early in the journey, but I'm building deliberately.
-
----
-
-### Current Status
-
-* 🎓 Computer Science student
-* 🐹 Building deeply with Go
-* 🐍 Learning Python
-* 🛠️ Building CLI and systems projects
-* ☁️ Exploring cloud and cybersecurity
-* 📈 Focused on consistent compounding
+One project at a time.
